@@ -1,0 +1,9 @@
+C:\Users\Matt\Desktop\Haunted_Computer\bin\Debug\Haunted_Computer.exe.config
+C:\Users\Matt\Desktop\Haunted_Computer\bin\Debug\Haunted_Computer.exe
+C:\Users\Matt\Desktop\Haunted_Computer\bin\Debug\Haunted_Computer.pdb
+C:\Users\Matt\Desktop\Haunted_Computer\obj\Debug\Haunted_Computer.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Desktop\Haunted_Computer\obj\Debug\Haunted_Computer.exe
+C:\Users\Matt\Desktop\Haunted_Computer\obj\Debug\Haunted_Computer.pdb
+C:\Users\Matt\Desktop\Projects\Haunted_Computer\bin\Debug\Haunted_Computer.exe.config
+C:\Users\Matt\Desktop\Projects\Haunted_Computer\obj\Debug\Haunted_Computer.exe
+C:\Users\Matt\Desktop\Projects\Haunted_Computer\obj\Debug\Haunted_Computer.pdb
